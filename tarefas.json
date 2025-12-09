@@ -1,0 +1,14 @@
+[
+    {
+        "descrição": "Jantar Agora!",
+        "status": "concluída"
+    },
+    {
+        "descrição": "Estudar Python",
+        "status": "pendente"
+    },
+    {
+        "descrição": "Postar no git",
+        "status": "pendente"
+    }
+]
